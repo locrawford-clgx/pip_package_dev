@@ -3,7 +3,6 @@ from setuptools import setup
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
     name="clip",
-    url="https://github.com/locrawford-clgx/pip_package_dev/tree/main/clip",
     author="Logan Crawford",
     author_email="locrawford@corelogic.com",
     
